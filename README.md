@@ -1,0 +1,14 @@
+# qssi-user 12 PROS2210210CN00AS1 V11.0.0.0.SPROSCN release-keys
+- manufacturer: blacksharkblackshark
+- platform: kona
+- codename: penrose
+- flavor: qssi-user
+- release: 12
+- id: PROS2210210CN00AS1
+- incremental: V11.0.0.0.SPROSCN
+- tags: release-keys
+- fingerprint: blackshark/PRS-A0/penrose:12/PROS2210210CN00AS1/V12.0.1.0.RBICNBS:user/release-keys
+- is_ab: true
+- brand: blackshark
+- branch: qssi-user-12-PROS2210210CN00AS1-V11.0.0.0.SPROSCN-release-keys
+- repo: blackshark_penrose_dump

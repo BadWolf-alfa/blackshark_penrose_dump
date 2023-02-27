@@ -1,0 +1,14 @@
+product/app/WebViewGoogle/WebViewGoogle.apk
+modem.img
+system/system/app/BsSound/BsSound.apk
+system/system/app/MiuiBiometric/MiuiBiometric.apk
+system/system/priv-app/MIUIVideoS/MIUIVideoS.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/priv-app/MIUIMusicDevSpecial/MIUIMusicDevSpecial.apk
+system/system/data-app/mocmna/mocmna.apk
+system/system/data-app/MiShop/MiShop.apk
+system/system/data-app/SharkMan/SharkMan.apk
+boot.img
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
+vendor/etc/dts/dts-eagle.lic
