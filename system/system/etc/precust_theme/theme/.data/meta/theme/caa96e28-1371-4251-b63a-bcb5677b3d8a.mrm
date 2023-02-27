@@ -1,0 +1,129 @@
+{
+  "localId": "caa96e28-1371-4251-b63a-bcb5677b3d8a",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "5cde5ca5df5872faf25efe04b8cb1a14d8cfb2ef",
+  "platform": 10,
+  "size": 24456389,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "黑鲨GXD"
+  },
+  "designers": {
+    "fallback": "黑鲨GXD"
+  },
+  "titles": {
+    "fallback": "进化出击",
+    "en_US": "Evolution Strike",
+    "zh_CN": "进化出击",
+    "zh_TW": "進化出擊",
+    "zh_HK": "進化出擊"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_lockscreen_mask_0.png",
+      "en_US_launcher_mask_0.png",
+      "en_US_launcher_mask_1.png",
+      "en_US_statusbar_mask_0.png",
+      "en_US_statusbar_mask_1.png",
+      "en_US_statusbar_mask_2.png",
+      "en_US_contact_0.jpg",
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_mask_0.png",
+      "preview_launcher_mask_0.png",
+      "preview_launcher_mask_1.png",
+      "preview_statusbar_mask_0.png",
+      "preview_statusbar_mask_1.png",
+      "preview_statusbar_mask_2.png",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_small_mask_0.png",
+      "preview_icons_mask_0.png",
+      "preview_icons_mask_1.png",
+      "preview_fonts_0.jpg",
+      "preview_fonts_1.jpg",
+      "preview_fonts_2.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_lockscreen_mask_0.png",
+      "en_US_launcher_mask_0.png",
+      "en_US_launcher_mask_1.png",
+      "en_US_statusbar_mask_0.png",
+      "en_US_statusbar_mask_1.png",
+      "en_US_statusbar_mask_2.png",
+      "en_US_contact_0.jpg",
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_mask_0.png",
+      "preview_launcher_mask_0.png",
+      "preview_launcher_mask_1.png",
+      "preview_statusbar_mask_0.png",
+      "preview_statusbar_mask_1.png",
+      "preview_statusbar_mask_2.png",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_mask_0.png",
+      "preview_icons_mask_1.png",
+      "preview_fonts_0.jpg",
+      "preview_fonts_1.jpg",
+      "preview_fonts_2.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "82bbcf3d-6e47-454b-948d-0e07c7c168d7",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "dd296a54-8260-4c92-ac98-6f8308bf6624",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "fc0cf093-0255-4cb4-8c58-672941ba0547",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "90acaee3-2648-4af6-9678-798d5348d54d",
+      "resourceCode": "module_config.xml",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "620a9c1c-99eb-4463-81f7-c978951986b0",
+      "resourceCode": "plugin_config.xml",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}

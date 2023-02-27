@@ -1,0 +1,50 @@
+{
+  "localId": "620a9c1c-99eb-4463-81f7-c978951986b0",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "3ce6432b48b3e145701603d92da61db6f7d1d6fd",
+  "platform": 10,
+  "size": 177,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "黑鲨GXD"
+  },
+  "designers": {
+    "fallback": "黑鲨GXD"
+  },
+  "titles": {
+    "fallback": "进化出击",
+    "en_US": "Evolution Strike",
+    "zh_CN": "进化出击",
+    "zh_TW": "進化出擊",
+    "zh_HK": "進化出擊"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [],
+    "fallback": []
+  },
+  "builtInPreviews": {
+    "en_US": [],
+    "fallback": []
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "caa96e28-1371-4251-b63a-bcb5677b3d8a",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}

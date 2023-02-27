@@ -1,0 +1,3 @@
+on post-fs-data
+    mkdir /data/local/bs_ota  0777 system system
+    restorecon  /data/local/bs_ota
